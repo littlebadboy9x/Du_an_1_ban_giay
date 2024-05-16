@@ -7,6 +7,7 @@ public class JBanHang extends javax.swing.JFrame {
    
     public JBanHang() {
         initComponents();
+        //aaaaaa
     }
 
    
