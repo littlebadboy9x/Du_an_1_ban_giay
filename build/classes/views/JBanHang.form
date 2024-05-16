@@ -91,6 +91,10 @@
                                   <Component id="jLabel2" min="-2" pref="142" max="-2" attributes="0"/>
                                   <EmptySpace max="-2" attributes="0"/>
                                   <Component id="jLabel3" min="-2" pref="37" max="-2" attributes="0"/>
+<<<<<<< HEAD
+=======
+                                  <EmptySpace max="32767" attributes="0"/>
+>>>>>>> f13fa7becb0286f2f441601f6ef90fca6b44086b
                               </Group>
                           </Group>
                       </Group>
